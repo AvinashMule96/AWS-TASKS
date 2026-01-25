@@ -12,4 +12,4 @@ This repository contains my AWS research and learning notes.
 
 ## Files
 - `API GATEWAY.pdf` – Detailed research notes on AWS API Gateway
-- ' AvinashMule.pdf - task on VPC , deleteting a route table in vpc 
+
