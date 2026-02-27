@@ -1,8 +1,8 @@
-AWS Hands-On Practice Tasks
+**AWS Hands-On Practice Tasks**
 
 This repository contains practical AWS implementation tasks covering core cloud services. Each PDF document includes step-by-step configuration, screenshots, and explanations of the concepts implemented in the AWS Management Console.
 
-📌 Tasks Covered
+📌** Tasks Covered**
 🔹 API Gateway
 
 Created and configured Amazon API Gateway
